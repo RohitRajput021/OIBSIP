@@ -11,27 +11,27 @@ As part of the internship, I have completed tasks based on the following levels:
 - **Level 2**: Intermediate tasks focusing on enhancing web design and functionality.
 - **Level 3**: Advanced tasks incorporating complex web development principles.
 
-I have chosen to complete the **Level X** tasks (mention which level you completed).
+I have chosen to complete the **Level 2** tasks.
 
 ---
 
 ## Tasks and Projects
 
-1. **Task 1: Project Name**
-   - **Description**: Brief overview of what the project is about.
-   - **Technologies used**: HTML, CSS, JavaScript (or any other technologies).
+1. **Task 1: Calculator**
+   - **Description**: This project demonstrates the creation of a calculator with basic mathematical functionalities using HTML, CSS, and JavaScript. The calculator can perform addition, subtraction, multiplication, and division. The interface includes a display screen for user input and results, and buttons aligned using CSS grid. The logic includes eventListeners, if-else statements, operators, and loops.
+   - **Technologies used**: HTML, CSS, JavaScript.
    - [View Project Demo](#) (You can link the project or demo video here)
    - [Task Video](#) (Link to the LinkedIn video if available)
 
-2. **Task 2: Project Name**
-   - **Description**: Brief overview of the project.
-   - **Technologies used**: Mention the technologies used.
+2. **Task 2: Tribute Page**
+   - **Description**: A simple tribute page to a person or topic of your choice. This task focuses on creating a clean and responsive design using HTML and CSS.
+   - **Technologies used**: HTML, CSS.
    - [View Project Demo](#)
    - [Task Video](#)
 
-3. **Task 3: Project Name**
-   - **Description**: Brief overview of the project.
-   - **Technologies used**: Mention the technologies used.
+3. **Task 3: To-Do App**
+   - **Description**: This project involves building a basic to-do list app that allows users to add, edit, and delete daily tasks. The tasks are divided into two sections: Pending Tasks and Completed Tasks. Users can mark tasks as completed, and the app displays the tasks accordingly. You can also add timestamps to show when a task was added or completed.
+   - **Technologies used**: HTML, CSS, JavaScript.
    - [View Project Demo](#)
    - [Task Video](#)
 
