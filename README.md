@@ -11,7 +11,7 @@ As part of the internship, I have completed tasks based on the following levels:
 - **Level 2**: Intermediate tasks focusing on enhancing web design and functionality.
 - **Level 3**: Advanced tasks incorporating complex web development principles.
 
-I have chosen to complete the **Level 2** tasks.
+I have chosen to complete the **Level X** tasks (mention which level you completed).
 
 ---
 
@@ -41,7 +41,7 @@ I have chosen to complete the **Level 2** tasks.
 
 For each task, a video demonstration of my work is available. The video showcases the project functionality and my efforts. Each task video begins with my name and can be found on my LinkedIn profile.
 
-- **LinkedIn Profile**: [Your LinkedIn Profile Link]
+- **LinkedIn Profile**: [www.linkedin.com/in/rajputrohit21](https://www.linkedin.com/in/rajputrohit21)
 - **Peer Evaluation**: I have actively engaged with the community, watching and commenting on task videos from fellow interns.
 
 ---
